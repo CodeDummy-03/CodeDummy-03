@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soham-Pal95
+- 👋 Hi, I’m @CodeDummy-03
 - 👀 I’m interested in -> well more or less anything interesting... 
 - 🌱 I’m currently employed at -> Rockwell Automation
 - 💞️ I’m looking to collaborate on -> open-sorce projects and scalable/distributed systems
