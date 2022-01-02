@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Soham Pal <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center">Hi, I'm CodeDummy-03 <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
 
 <h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
 
@@ -6,8 +6,8 @@
 <h2>About me</h2>
 
 - 👋 Hi, I’m Soham -> aka @CodeDummy-03.
-- 👀 I’m interested in -> Well more or less anything interesting... 
-- 🌱 I’m currently employed at -> Rockwell Automation, Inc.
+- 👀 I’m interested in -> Well, more or less anything interesting... 
+- 🌱 I’m currently employed at -> Rockwell Automation, Inc as an Software Engineer - L2.
 - 💞️ I’m looking to collaborate on -> Open-source projects and scalable/distributed systems.
 - ⚡ Fun fact: I love connecting with people and learn about their journey, helping me to open up to different perspectives and on various domains.
    
@@ -17,6 +17,6 @@
 
 💬 Ask me anything, I will be more than happy to help :D
 
-📫Connect with me:
+📫Have an Opportunity for me? Shoot me a message at:
 
 [<img src="https://user-images.githubusercontent.com/39955420/147572655-e5feabb1-2a36-467c-9906-1fc66d606b41.png" height="48" width="48">](https://www.linkedin.com/in/sohampal95/)
