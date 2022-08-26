@@ -7,8 +7,8 @@
 
 - 👋 Hi, I’m Soham -> aka @CodeDummy-03.
 - 👀 I’m interested in -> Well, more or less anything interesting... 
-- 🌱 I’m currently employed at -> Rockwell Automation, Inc as an Software Engineer - L2 & Security SME.
-- 💞️ I’m looking to collaborate on -> Open-source projects and scalable/distributed systems.
+- 🌱 I’m currently employed at -> Chetak Technology (sub. Bajaj Auto Ltd.) as an R&D Manager for In-House and End of Line Application Developmental activities...
+- 💞️ I’m looking to collaborate on -> Open-source projects and scalable/distributed systems...
 - ⚡ Fun fact: I love connecting with people and learn about their journey, helping me to open up to different perspectives and on various domains.
    
 <h2>GitHub Streak</h2>
